@@ -15,6 +15,9 @@
       <excludeFolder url="file://$MODULE_DIR$/scrabble-score/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/scrabble-score/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/scrabble-score/build" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
